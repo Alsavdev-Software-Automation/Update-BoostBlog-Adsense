@@ -1,1 +1,8 @@
-# Update-BoostBlog-Adsense
+# Change Log
+
+## Stable Builds
+
+* 2024-09-22 -- 1.0.4
+  * Initial version
+* 2024-10-1 -- 1.0.5
+  * Change log for choice model
