@@ -6,3 +6,5 @@
   * Initial version
 * 2024-10-1 -- 1.0.5
   * Change log for choice model
+* 2024-10-8 -- 1.0.6
+  * Fix catch error proxy
