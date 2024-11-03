@@ -10,3 +10,5 @@
   * Fix catch error proxy
 * 2024-10-8 -- 1.0.7
   * Update condition screening func
+* 2024-11-03 -- 1.0.8
+  * Update model proxy & adjust some flow
