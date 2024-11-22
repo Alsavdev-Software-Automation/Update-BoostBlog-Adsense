@@ -12,7 +12,7 @@
   * Update condition screening func
 * 2024-11-03 -- 1.0.8
   * Update model proxy & adjust some flow
-* 2024-11-03 -- 1.1.6
+* 2024-11-22 -- 1.1.6
   * FIX Double Report Proxy
   * FIX Handling anomaly browser
   * Avoid Double Browser
