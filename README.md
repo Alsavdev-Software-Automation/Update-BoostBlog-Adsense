@@ -16,4 +16,6 @@
   * FIX Double Report Proxy
   * FIX Handling anomaly browser
   * Avoid Double Browser
-
+* 2024-12-02 -- 1.1.7
+  * Adding visitads feature
+  * Integrate license system to improve security
